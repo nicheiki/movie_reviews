@@ -1,0 +1,2 @@
+rootProject.name = "ReviewsGrabber"
+include ':app'
